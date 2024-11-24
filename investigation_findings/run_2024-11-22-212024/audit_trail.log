@@ -1,0 +1,61 @@
+INFO:__main__:Investigating medical device reports that contain the phrase 'artificial intelligence' or 'machine learning'...
+INFO:__main__:Total results returned from query:67.
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=%22artificial+intelligence*%22+OR+%22machine+learning*%22&limit=500
+INFO:__main__:Investigating medical device reports that contain the phrase 'algorithm'...
+INFO:__main__:Total results returned from query:26696.
+INFO:__main__:Limiting total number of results considered to 25000.
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=1000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=1500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=2000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=2500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=3000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=3500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=4000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=4500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=5000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=5500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=6000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=6500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=7000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=7500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=8000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=8500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=9000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=9500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=10000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=10500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=11000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=11500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=12000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=12500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=13000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=13500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=14000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=14500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=15000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=15500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=16000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=16500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=17000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=17500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=18000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=18500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=19000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=19500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=20000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=20500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=21000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=21500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=22000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=22500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=23000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=23500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=24000
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=24500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*&limit=500&skip=25000
+INFO:__main__:Total results returned from query:1367.
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*+AND+(diagnostic*+OR+diagnosis*)&limit=500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*+AND+(diagnostic*+OR+diagnosis*)&limit=500&skip=500
+INFO:__main__:Executing query: https://api.fda.gov/device/event.json?search=algorithm*+AND+(diagnostic*+OR+diagnosis*)&limit=500&skip=1000
